@@ -11,7 +11,7 @@ Todo 관리를 위한 웹 애플리케이션입니다.
 ## In progress
 - Todo List 카테고리 생성
 - 나만의 프로필 생성하기
-- 캘린더 연동
+- 캘린더 연동 및 스케쥴 작성
 
 ## Contributors
 - 오승민
